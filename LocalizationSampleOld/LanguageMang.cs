@@ -13,12 +13,6 @@ namespace LocalizationSampleOld
             new Languages {
                 LanguageFullName = "English", LanguageCultureName = "en"
             },
-            //new Languages {
-            //    LanguageFullName = "Hindi", LanguageCultureName = "Hi"
-            //},
-            //new Languages {
-            //    LanguageFullName = "japanese", LanguageCultureName = "Ja"
-            //},
             new Languages {
                 LanguageFullName = "spanish", LanguageCultureName = "es"
             },
